@@ -15,6 +15,13 @@ void Method2()
         Console.WriteLine($"method 2:i={i}");
     }
 }
+void Method3()
+{
+    for (int i = 0; i < 100; i++)
+    {
+        Console.WriteLine($"method 3:i={i}");
+    }
+}
 await simpletask();
 
 File.WriteAllText("SomeFile.txt", "EFJENFJEFNJEFN");
