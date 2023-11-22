@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2> this is nothing but a heading 2</h2>
+<hr/>
+<h3> what is razor</h3>
+<h4>ans:anylanguage+html. in our case, c# +html</h4>
+<hr/>
+@{
+    var message = "HELLO razor";
+}
+<input type="text" value=@message/>
+<br/>
+<button onclick="alert('ok')">ok</button>
+<span style="background-color:green;color:purple">@ViewBag.ReturnValue</span> 
+@{
+    List<string> names = new List<string>();
+    names.Add("eena");
+    names.Add("manu");
+    names.Add("rohith");
+}
+<table>
+<tr>
+<td>name</td>
+</tr>
+
+
+@foreach(var name1 in names)
+{
+    <tr><td>
+    @Html.TextBoxFor(n => name1)  @*html helper.this function compiles into html code*@
+            </td>
+        </tr>
+} 
+<p>lorem32 j    qndjksancjksancjasnckjasnckasnckanckasncksancakcnkasnc</p>
