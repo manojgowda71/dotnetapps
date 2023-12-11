@@ -113,11 +113,11 @@ namespace emplib
         }
         public override string work()
         {
-            return $"{this.Name} with {this.empid} works for 8 hrs a day";
+            return $"{this.Name} with {this.empid} works for 8 hrs a day and travels 10hrs a  week";
         }
         public string work(string task)
         {
-            return $"{this.Name} with {this.empid} has {task} assigned";
+            return $"{this.Name} with {this.empid} has {task} assigned and he has to work";
         }
         public void settaxinfo(string taxinfo)
         {

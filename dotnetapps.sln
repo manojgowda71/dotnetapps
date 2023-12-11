@@ -13,61 +13,65 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classlib", "classlib\classl
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "empsystem", "empsystem", "{A4873B84-293F-450C-A07D-E252E27F80A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emplib", "emplib\emplib.csproj", "{C804AB71-4F72-486A-8F7F-D7D573AFFBC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "emplib", "emplib\emplib.csproj", "{C804AB71-4F72-486A-8F7F-D7D573AFFBC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empconsole", "empconsole\empconsole.csproj", "{CAAE32BA-A585-45B8-98B4-B3EFC593893B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "empconsole", "empconsole\empconsole.csproj", "{CAAE32BA-A585-45B8-98B4-B3EFC593893B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pl", "pl", "{9E2DB9BE-D26F-4A24-89D2-7D6B50D5BFCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bl", "bl", "{A0E5DD11-5AA6-4184-AB52-8281F120BBD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empforms", "empforms\empforms.csproj", "{AFE41428-CD24-44B8-A9A4-AF290FE0A60E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "empforms", "empforms\empforms.csproj", "{AFE41428-CD24-44B8-A9A4-AF290FE0A60E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates", "delegates\delegates.csproj", "{60285B86-BCE0-4C77-954A-B540399BD431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegates", "delegates\delegates.csproj", "{60285B86-BCE0-4C77-954A-B540399BD431}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{A67BC7BC-E2D7-4877-BF3B-33FDC189A8F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDal", "TestDal\TestDal.csproj", "{64C2EFDB-A628-4A9F-AD68-96A52F1049AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDal", "TestDal\TestDal.csproj", "{64C2EFDB-A628-4A9F-AD68-96A52F1049AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labdal", "labdal\labdal.csproj", "{EFAB87A1-8D3C-4C76-97BA-AFF778929E0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "labdal", "labdal\labdal.csproj", "{EFAB87A1-8D3C-4C76-97BA-AFF778929E0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testdbconsole", "testdbconsole\testdbconsole.csproj", "{4C9E1B24-612F-47A2-9B0F-9776C92DE7F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testdbconsole", "testdbconsole\testdbconsole.csproj", "{4C9E1B24-612F-47A2-9B0F-9776C92DE7F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirstEF", "DbFirstEF\DbFirstEF.csproj", "{4FAC44C5-DADF-4D5B-8650-6E3408BAF59A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbFirstEF", "DbFirstEF\DbFirstEF.csproj", "{4FAC44C5-DADF-4D5B-8650-6E3408BAF59A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samplewebapp", "samplewebapp\samplewebapp.csproj", "{3340FB09-7278-4952-9305-2D1CD547CC8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "samplewebapp", "samplewebapp\samplewebapp.csproj", "{3340FB09-7278-4952-9305-2D1CD547CC8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayDal", "HolidayDal\HolidayDal.csproj", "{179427DF-841B-47A3-9C6B-F81F014DBBAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidayDal", "HolidayDal\HolidayDal.csproj", "{179427DF-841B-47A3-9C6B-F81F014DBBAD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product template", "product template", "{82FBAA4E-843D-450A-A40D-95394DA184D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bllib1", "Bllib1\Bllib1.csproj", "{241D3B25-A46F-4C00-9F34-2114028EBBDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bllib1", "Bllib1\Bllib1.csproj", "{241D3B25-A46F-4C00-9F34-2114028EBBDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bllib2", "bllib2\bllib2.csproj", "{AF88EB38-45A5-42D1-9D05-ADBDC4DA4759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bllib2", "bllib2\bllib2.csproj", "{AF88EB38-45A5-42D1-9D05-ADBDC4DA4759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dallib", "dallib\dallib.csproj", "{349A3AC7-8559-4EDE-9695-1C0B31FB52E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dallib", "dallib\dallib.csproj", "{349A3AC7-8559-4EDE-9695-1C0B31FB52E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serviceapi", "serviceapi\serviceapi.csproj", "{B2F1B8B7-24A9-49A6-A8E5-F3FA93F46204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "serviceapi", "serviceapi\serviceapi.csproj", "{B2F1B8B7-24A9-49A6-A8E5-F3FA93F46204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webpl", "webpl\webpl.csproj", "{0776062B-0295-45E8-92CF-2CB240D0E7A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webpl", "webpl\webpl.csproj", "{0776062B-0295-45E8-92CF-2CB240D0E7A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "employeecontroller", "employeecontroller\employeecontroller.csproj", "{C8F4A095-DD11-4033-8B4B-F13796D9628D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "employeecontroller", "employeecontroller\employeecontroller.csproj", "{C8F4A095-DD11-4033-8B4B-F13796D9628D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependencyinjection", "Dependencyinjection\Dependencyinjection.csproj", "{D0F317B7-9F9F-4F2B-BFF2-BE72FEF1AC60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependencyinjection", "Dependencyinjection\Dependencyinjection.csproj", "{D0F317B7-9F9F-4F2B-BFF2-BE72FEF1AC60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firstapi", "Firstapi\Firstapi.csproj", "{01BB2796-6D3F-4EE2-80B9-5AFD795A78A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firstapi", "Firstapi\Firstapi.csproj", "{01BB2796-6D3F-4EE2-80B9-5AFD795A78A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndividualAuth", "IndividualAuth\IndividualAuth.csproj", "{80B9310F-7909-44D9-ADD4-35EC65460BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndividualAuth", "IndividualAuth\IndividualAuth.csproj", "{80B9310F-7909-44D9-ADD4-35EC65460BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windowsauthapi", "windowsauthapi\windowsauthapi.csproj", "{D6A18E45-7C8F-4971-A0C9-1EA4302AEDE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "windowsauthapi", "windowsauthapi\windowsauthapi.csproj", "{D6A18E45-7C8F-4971-A0C9-1EA4302AEDE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWAuth", "JWAuth\JWAuth.csproj", "{8C6F9221-1954-48A1-A74B-15AFD18B4094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWAuth", "JWAuth\JWAuth.csproj", "{8C6F9221-1954-48A1-A74B-15AFD18B4094}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApiClients", "WebApiClients", "{302874C0-E1DF-4020-B3AE-3A42D3007F04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{CE484FF5-1633-40E1-ABAD-2E8DCFE351F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{CE484FF5-1633-40E1-ABAD-2E8DCFE351F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{370C9626-4A97-4902-8443-1867B49540DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{370C9626-4A97-4902-8443-1867B49540DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E8B80450-1371-4141-BFAF-7FC0D8AF01F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qaAutomationTraining", "qaAutomationTraining\qaAutomationTraining.csproj", "{7DC08F2A-9452-4F3C-B057-51FD77ED4DCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,10 @@ Global
 		{370C9626-4A97-4902-8443-1867B49540DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370C9626-4A97-4902-8443-1867B49540DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370C9626-4A97-4902-8443-1867B49540DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC08F2A-9452-4F3C-B057-51FD77ED4DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC08F2A-9452-4F3C-B057-51FD77ED4DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC08F2A-9452-4F3C-B057-51FD77ED4DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC08F2A-9452-4F3C-B057-51FD77ED4DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
